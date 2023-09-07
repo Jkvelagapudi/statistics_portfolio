@@ -1,0 +1,26 @@
+.nav {
+    z-index: 100;
+    background-color: rgb(0, 132, 226); 
+}
+
+.nav-style {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.text {
+    font-size: 1.2rem;
+    font-weight: bold;
+    align-self: center;
+    margin: 10px;
+}
+
+.link {
+    padding: 30px;
+    margin: 10px;
+    text-decoration: none;
+    color: black;
+}
+
